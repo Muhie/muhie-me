@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: about
 title: ./about
 permalink: /about/
 ---

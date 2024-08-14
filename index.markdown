@@ -6,3 +6,4 @@ layout: landing
 ---
 
 
+<img src="{{ 'assets/Muhie.jpeg' | relative_url }}"></img>
