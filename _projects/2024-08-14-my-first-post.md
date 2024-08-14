@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meta Car Parks"
+title:  "Jekyll and Github Pages"
 date:   2024-08-14 11:15:45 +0100
 categories: jekyll update
 ---
