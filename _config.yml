@@ -30,7 +30,8 @@ linkedin_username: muhie-al-haimus-767583253
 github_username:  Muhie
 
 # Build settings
-theme: minima
+# Removed minima theme now is a regular theme not gem based
+# theme: minima
 plugins:
   - jekyll-feed
 
