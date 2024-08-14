@@ -12,4 +12,4 @@ Welcome to my website!
 2. test
 3. test
 
-
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
