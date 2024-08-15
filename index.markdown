@@ -6,5 +6,4 @@ layout: landing
 
 ---
 
-
 {% include carousel.html images=site.data.carousel_images %}
