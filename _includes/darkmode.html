@@ -1,0 +1,43 @@
+<style>
+body.dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+  
+  body.dark-mode a {
+    color: #bb86fc;
+  }
+
+  body.navbar-custom {
+    background-color: black;
+}
+
+</style>
+
+
+<button class="btn sm" id="dark-mode-toggle">Toggle Dark Mode</button>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+  const toggleButton = document.getElementById('dark-mode-toggle');
+  const body = document.body;
+
+  // Check if dark mode is enabled in localStorage
+  if (localStorage.getItem('dark-mode') === 'enabled') {
+    body.classList.add('dark-mode');
+  }
+
+  toggleButton.addEventListener('click', () => {
+    body.classList.toggle('dark-mode');
+
+    // Save the dark mode state in localStorage
+    if (body.classList.contains('dark-mode')) {
+      localStorage.setItem('dark-mode', 'enabled');
+    } else {
+      localStorage.removeItem('dark-mode');
+    }
+  });
+});
+
+</script>
