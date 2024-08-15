@@ -4,12 +4,7 @@
 
 layout: landing
 
-carousels:
-  - images:
-    - url: "/assets/images/Muhie.jpeg"
-    - url: "/path/to/image2.jpg"
-    - url: "/path/to/image3.jpg"
 ---
 
 
-<!-- <img src="{{ 'assets/images/Muhie.jpeg' | relative_url }}"> -->
+{% include carousel.html images=site.data.carousel_images %}
