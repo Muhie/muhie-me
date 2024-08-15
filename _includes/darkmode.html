@@ -15,7 +15,7 @@ body.dark-mode {
 </style>
 
 
-<button class="btn sm" id="dark-mode-toggle">Toggle Dark Mode</button>
+<a class="btn sm" id="dark-mode-toggle">Toggle Dark Mode</a>
 
 
 <script>
@@ -24,7 +24,7 @@ body.dark-mode {
   const body = document.body;
 
   // Check if dark mode is enabled in localStorage
-  if (localStorage.getItem('dark-mode') === 'enabled') {
+  if (localStorage.getItem('dark-mode') === 'enabled' ||  window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
     body.classList.add('dark-mode');
   }
 
