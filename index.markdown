@@ -3,7 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: landing
+
+carousels:
+  - images:
+    - url: "/assets/images/Muhie.jpeg"
+    - url: "/path/to/image2.jpg"
+    - url: "/path/to/image3.jpg"
 ---
 
 
-<img src="{{ 'assets/Muhie.jpeg' | relative_url }}">
+<!-- <img src="{{ 'assets/images/Muhie.jpeg' | relative_url }}"> -->
