@@ -5,11 +5,9 @@ date:   2024-08-14 11:15:45 +0100
 categories: jekyll update
 ---
 
-Welcome to my website!
+## Welcome to my porfolio website!
 
-## This is my portfolio website
-1. test
-2. test
-3. test
+#### Jekyll
 
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+###### This by website was created by Muhie Al Haimus using Jekyll, HTML, CSS, Bootstrap, Markdown and Github Pages.
+
