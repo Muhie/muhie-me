@@ -26,6 +26,7 @@ permalink: /about/
 - HTML 
 - JS
 - CSS
+- Git
 - ROS *work in progress*
 
 ## **My CV:**
