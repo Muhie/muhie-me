@@ -4,7 +4,7 @@ title: ./about
 permalink: /about/
 ---
 
-### Hi, My name is [Muhie!](https://muhie.xyz). I'm a second year Robotics Engineering undergraduate at Queen Mary University of London!
+### Hi, My name is [Muhie!](https://muhie.xyz) I'm a second year Robotics Engineering undergraduate at Queen Mary University of London!
 ## **My Qualificatons:**
 - On track for a first class BEng(HON) Robotics Engineering degree at Queen Mary University Of London
 
