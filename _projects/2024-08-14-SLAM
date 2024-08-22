@@ -33,4 +33,8 @@ It worked!!! Just kidding I got RVIZ and Gazebo running but the tool to compile 
 
 ## Third Approach: Ubuntu Virtual Machine
 
+Obviously this would work right? It does, **but** initially I had made a Ubuntu 22.04 install and well ROS2 no longer supports it so... I needed to make a 24.02 install which meant I **finally** was able to install everything on my mac!
 
+## Up and Running: Now What?
+
+Time to start the SLAM 
