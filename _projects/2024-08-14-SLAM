@@ -6,14 +6,14 @@ categories: jekyll update
 ---
 
 ## Preface
-### I would like to start by saying this is most definetly a project that is going to take **some time** to create.
+I would like to start by saying this is most definetly a project that is going to take **some time** to create.
 
 ## Where do we begin?
 
-#### I going to start this what i'd like to call a **mega project**; with some definitions of course! 
+I going to start this what i'd like to call a **mega project**; with some definitions of course! 
 
 ## What exactly is SLAM?
-### SLAM (Simultaneous localization and mapping) is the Mother of all Robotics Algorithms in my opinion. This project will give me all the tools I need to:
+SLAM (Simultaneous localization and mapping) is the Mother of all Robotics Algorithms in my opinion. This project will give me all the tools I need to:
 1. Do well in my degree.
 2. Give me a fantastic project to put on my CV.
 3. Allow me to learn the ROS framework and POSE.
@@ -21,15 +21,15 @@ categories: jekyll update
 
 ## Getting ROS2 setup
 
-### As a mac user installing anything graphically intensive is usually a pain and guess what? ROS2 is so hard to install on mac!!!!!! 
+As a mac user installing anything graphically intensive is usually a pain and guess what? ROS2 is so hard to install on mac!!!!!! 
 
 ## My first approach: A Docker Container
 
-### Guess what? The desktop GUI image was not compiled for ARM64 so that didn't work as expected!
+Guess what? The desktop GUI image was not compiled for ARM64 so that didn't work as expected!
 
 ## Second Approach: Install naitively on mac
 
-### It worked!!! Just kidding I got RVIZ and Gazebo running but the tool to compile xacro files did not work! So I needed to find another solution
+It worked!!! Just kidding I got RVIZ and Gazebo running but the tool to compile xacro files did not work! So I needed to find another solution
 
 ## Third Approach: Ubuntu Virtual Machine
 
