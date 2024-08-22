@@ -9,7 +9,7 @@ categories: jekyll update
 
 ## Building My Website with Jekyll and GitHub Pages
 
-Hello, world! I'm thrilled to introduce you to my brand-new tech blog, built with Jekyll and hosted on GitHub Pages. As a Mac user, I wanted a seamless and efficient way to share my projects and insights with the world, and Jekyll provided the perfect solution.
+Hello, world! I'm thrilled to introduce you to my brand-new tech blog, built with Jekyll and hosted on GitHub Pages.
 
 ### Why Jekyll and GitHub Pages?
 
