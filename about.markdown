@@ -5,14 +5,14 @@ permalink: /about/
 ---
 
 ### Hi, My name is [Muhie!](https://muhie.xyz) I'm a second year Robotics Engineering undergraduate at Queen Mary University of London!
-## **My Qualificatons:**
+## **My Qualifications:**
 - On track for a first class BEng(HON) Robotics Engineering degree at Queen Mary University Of London
 
 - A-level Mathematics (A)
 - A-level Computer Science (A)
 - A-level Physics (B)
 
-## **My Competitons:**
+## **My Competitions:**
 - Unibots (2024)
 - First Global Challenge Geneva, Switzerland (2022)
 - Student Robotics (2022,2023)

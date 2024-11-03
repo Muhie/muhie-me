@@ -12,7 +12,7 @@ For me, the ideal ROS2 environment consists of the following packages/software:
 2. Code editor: Visual Studio Code
 3. The default ROS packages: (Rviz, Gazebo, ect.)
 
-These packages are the bear minium to create projects using ROS2 in my opinion
+These packages are the bear minimum to create projects using ROS2 in my opinion
 
 ## Creating My Environment
 
@@ -23,7 +23,7 @@ I downloaded the Ubuntu dailiy ARM64 build from here: add link. Then using UTM (
 This was a breeze using the instructions on their website. No issues to report here.
 
 ## Downloading Gazebo
-This is where I ran into some issues - due to the openGL 4.1 version on my Ubuntu VM. After downloading Gazebo I was unable to start the simulator; I had tried changing my drivers and other troubleshooting steps, after lots of googling I stubbled accross a github post from the author: PSandro who detailed a flag to enable XWAYLAND rendering. After entering this command: 
+This is where I ran into some issues - due to the openGL 4.1 version on my Ubuntu VM. After downloading Gazebo I was unable to start the simulator; I had tried changing my drivers and other troubleshooting steps, after lots of googling I stubbled across a github post from the author: PSandro who detailed a flag to enable XWAYLAND rendering. After entering this command: 
 ```env -u WAYLAND_DISPLAY gz sim -v 4 <YOUR FILE NAME HERE.sdf> --render-engine ogre``` gazebo ran perfectly!
 
-I hope that this helps anyone stuggling to install ROS2 on macos
+I hope that this helps anyone struggling to install ROS2 on macos
