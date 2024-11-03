@@ -10,7 +10,7 @@
   <div class="carousel-inner">
     {% for image in include.images %}
     <div class="carousel-item {% if forloop.first %}active{% endif %}">
-      <img style="width: 100%; height: auto; aspect-ratio: 4/3" src="{{ image.url | relative_url }}" class="d-block w-100" alt="{{ image.alt }}">
+      <img style="width: 100%; height: auto; aspect-ratio: 16/9" src="{{ image.url | relative_url }}" class="d-block w-100" alt="{{ image.alt }}">
     </div>
     {% endfor %}
   </div>
