@@ -7,7 +7,7 @@
 
 ## Running the websever
 
-type `bundle exec jekyll serve --livereload`ç
+type `bundle exec jekyll serve --livereload`
 
 
 
