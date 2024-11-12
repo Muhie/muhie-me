@@ -18,5 +18,5 @@ The Practice Questions toolkit is meant to serve as an additional list of practi
 
 <a href="https://github.com/Muhie/ems412u-python-guides?tab=readme-ov-file#motivation">The project can be found here.</a>
 
-<a src="{{ "assets/documents/EMS412-Common-Errors-Toolkit.pdf" | relative_url }}">Raw PDFs Here</a>
-<a src="{{ "assets/documents/EMS412-Practice-Questions-Toolkit.pdf" | relative_url }}">Raw PDFs Here</a>
+<a href="{{ "assets/documents/EMS412-Common-Errors-Toolkit.pdf" | relative_url }}">Raw PDFs Here</a>
+<a href="{{ "assets/documents/EMS412-Practice-Questions-Toolkit.pdf" | relative_url }}">Raw PDFs Here</a>
