@@ -31,7 +31,7 @@ permalink: /about/
 
 ## **My CV:**
 
-
+<a href="{{ "assets/documents/Muhie_Al_Haimus_Curriculum_Vitae_2024_v1.01.pdf" | relative_url }}">Click here!</a>
 
 
 ## **My Github Stats:**
