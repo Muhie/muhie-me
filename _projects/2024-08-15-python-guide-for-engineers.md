@@ -16,5 +16,10 @@ The <a href="{{ "assets/documents/EMS412-Common-Errors-Toolkit.pdf" | relative_u
 
 The <a href="{{ "assets/documents/EMS412-Practice-Questions-Toolkit.pdf" | relative_url }}">Practice Questions toolkit</a> is meant to serve as an additional list of practice Python exercises covering content from Weeks 1-6. After you have completed the IT class tutorials on Jupyterhub, you may wish to try these exercises to hone your programming skills.
 
+### Video Installation Resources
+
+These are interactive installation guides tailored to installing the dependencies for the EMS412U module. Which can be found <a href="https://www.youtube.com/watch?v=sRj58RCRRSE&list=PLVTKec-v1Xhsq0B_q3NbLEAafPlh_3XhE">here.</a>
+
+
 <a href="https://github.com/Muhie/ems412u-python-guides?tab=readme-ov-file#motivation">The project can be found on Github.</a>
 
