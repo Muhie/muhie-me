@@ -10,13 +10,11 @@ In response to student feedback from previous runs of the module, Dr. Rehan Shah
 
 ### Python Common Errors Toolkit
 
-The Common Errors toolkit serves as a supplementary resource for you to use alongside the Python tutorials on Jupyterhub. It documents the standard errors that students most often make, along with ways to rectify them.
+The <a href="{{ "assets/documents/EMS412-Common-Errors-Toolkit.pdf" | relative_url }}">Common Errors toolkit</a> serves as a supplementary resource for you to use alongside the Python tutorials on Jupyterhub. It documents the standard errors that students most often make, along with ways to rectify them.
 
 ### Python Practice Questions Toolkit
 
-The Practice Questions toolkit is meant to serve as an additional list of practice Python exercises covering content from Weeks 1-6. After you have completed the IT class tutorials on Jupyterhub, you may wish to try these exercises to hone your programming skills.
+The <a href="{{ "assets/documents/EMS412-Practice-Questions-Toolkit.pdf" | relative_url }}">Practice Questions toolkit</a> is meant to serve as an additional list of practice Python exercises covering content from Weeks 1-6. After you have completed the IT class tutorials on Jupyterhub, you may wish to try these exercises to hone your programming skills.
 
-<a href="https://github.com/Muhie/ems412u-python-guides?tab=readme-ov-file#motivation">The project can be found here.</a>
+<a href="https://github.com/Muhie/ems412u-python-guides?tab=readme-ov-file#motivation">The project can be found on Github.</a>
 
-<a href="{{ "assets/documents/EMS412-Common-Errors-Toolkit.pdf" | relative_url }}">Raw PDFs Here</a>
-<a href="{{ "assets/documents/EMS412-Practice-Questions-Toolkit.pdf" | relative_url }}">Raw PDFs Here</a>
